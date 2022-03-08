@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toringebrekka2
 - 👀 I’m interested in information system development, both back-end and front-end.
-- 🌱 I’m currently learning PHP, JavaScript and React.
+- 🌱 I’m currently learning ASP.NET full-stack application programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: torib18@uia.no/tor_ib@hotmail.com
 
